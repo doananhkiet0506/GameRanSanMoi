@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\doananhkiet\desktop\ransanmoi\gameransanmoi\tinhnanggame.h(88): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameRanSanMoi.vcxproj -> C:\Users\DoanAnhKiet\Desktop\RanSanMoi\Debug\GameRanSanMoi.exe
